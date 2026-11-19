@@ -42,3 +42,5 @@
 ![alt text](image-20.png)
 ## Volteo en Ambos Ejes
 ![alt text](image-21.png)
+## 10. GUARDADO DE RESULTADOS Y LIMPIEZA
+![alt text](image-22.png)
